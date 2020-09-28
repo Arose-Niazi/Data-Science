@@ -56,6 +56,7 @@ class Olympics:
 
     def mostRelativeGoldDifference(self):
         goldMedalists = self.data.where((self.data['Gold'] > 0) & (self.data['Gold.1'] > 0))
+        goldMedalists = goldMedalists.dropna()
         difference = (goldMedalists['Gold'] - goldMedalists['Gold.1'])/goldMedalists['Gold.2']
         mini = difference.idxmin()
         minimum = ((goldMedalists.loc[mini]['Gold'] - goldMedalists.loc[mini]['Gold.1'])
