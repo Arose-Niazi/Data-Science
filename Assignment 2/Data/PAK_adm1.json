@@ -2,7 +2,7 @@
     [
         {
             "type":"Feature",
-            "id":"AJK",
+            "id":"JK",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.1_1","NAME_1":"Azad Jammu and Kashmir","VARNAME_1":"Kashmir","NL_NAME_1":null,"TYPE_1":"Centrally Administered Area","ENGTYPE_1":"Centrally Administered Area","CC_1":null,"HASC_1":"PK.JK"},
             "geometry":
@@ -12,7 +12,7 @@
         },
         {
             "type":"Feature",
-            "id":"B",
+            "id":"BL",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.2_1","NAME_1":"Balochistan","VARNAME_1":"Balochistan|BÃ©loutchistanBeluchistan|BaluchistÃ£o","NL_NAME_1":null,"TYPE_1":"Province","ENGTYPE_1":"Province","CC_1":null,"HASC_1":"PK.BA"},
             "geometry":
@@ -23,7 +23,7 @@
         },
         {
             "type":"Feature",
-            "id":"FATA",
+            "id":"FT",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.3_1","NAME_1":"F.A.T.A","VARNAME_1":"Federally Administered Tribal Areas","NL_NAME_1":null,"TYPE_1":"Territory","ENGTYPE_1":"Territory","CC_1":null,"HASC_1":"PK.TA"},
             "geometry":
@@ -33,7 +33,7 @@
         },
         {
             "type":"Feature",
-            "id":"ISL",
+            "id":"IS",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.4_1","NAME_1":"Islamabad Capital Territory","VARNAME_1":"Islamabad|Federal Capital Territory|Federal Capital Territory Islamabad|Territoire de la Capitale fÃ©dÃ©rale","NL_NAME_1":null,"TYPE_1":"Capital Territory","ENGTYPE_1":"Capital Territory","CC_1":null,"HASC_1":"PK.IS"},
             "geometry":
@@ -43,7 +43,7 @@
         },
         {
             "type":"Feature",
-            "id":"KPK",
+            "id":"KP",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.5_1","NAME_1":"Khyber Pakhtunkhwa","VARNAME_1":"Khyber Pakhtunkhwa","NL_NAME_1":null,"TYPE_1":"Province","ENGTYPE_1":"Province","CC_1":null,"HASC_1":"PK.NW"},
             "geometry":
@@ -63,7 +63,7 @@
         },
         {
             "type":"Feature",
-            "id":"P",
+            "id":"PU",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.7_1","NAME_1":"Punjab","VARNAME_1":"Pendjab|Penjab","NL_NAME_1":null,"TYPE_1":"Province","ENGTYPE_1":"Province","CC_1":null,"HASC_1":"PK.PB"},
             "geometry":
@@ -73,7 +73,7 @@
         },
         {
             "type":"Feature",
-            "id":"S",
+            "id":"SH",
             "properties":
                 {"GID_0":"PAK","NAME_0":"Pakistan","GID_1":"PAK.8_1","NAME_1":"Sindh","VARNAME_1":"Sindh","NL_NAME_1":null,"TYPE_1":"Province","ENGTYPE_1":"Province","CC_1":null,"HASC_1":"PK.SD"},
             "geometry":
