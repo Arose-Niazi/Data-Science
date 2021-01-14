@@ -8,4 +8,13 @@
   - olympics.csv -> The CSV file containg data.
   - OlympicsCSV.py -> The class where all functions work.
   - main.py -> Main file, runner.
-  - Olympics.ipynb -> jupyter notebook file, runner.
+  - Olympics.ipynb -> jupyter notebook / colab file, runner.
+- Assignmnet 2
+  - Available at another repo.
+- Assignment 3 (Did without any motivation)
+  - Assignment.ipynb -> Main File
+  - Assignment.pdf -> PDF of Main file
+  - result.csv -> Result csv file (Lost other 2 files)
+  - trainedModel.pkl -> Trained model.
+- Decision Tree Excel Sheets
+  -> This folder contains files for easily solving any decision tree questions (Theory exams). Ask me personally if you are unable to understand how to use this.
